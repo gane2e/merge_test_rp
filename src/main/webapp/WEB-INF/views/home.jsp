@@ -33,6 +33,6 @@ charset=UTF-8" pageEncoding="UTF-8"%>
       </script>
     </c:if>
 
-    commitTest
+    pullRequestTest
   </body>
 </html>
